@@ -1114,7 +1114,7 @@ void ofApp::update() {
 	
 	currAngle = getMouthAngle();
 
-	cout << currAngle << endl;
+	//cout << currAngle << endl;
 	/*
 	
 		// --- Puppet Only Mouth Controlls ---
