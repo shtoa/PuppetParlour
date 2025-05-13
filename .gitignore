@@ -3,3 +3,6 @@
 *.ipch
 *.pdb
 *.db
+
+*.sln
+*.vcxproj
