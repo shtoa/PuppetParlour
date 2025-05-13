@@ -1,0 +1,5 @@
+# Visual Studio cache and temp files
+.vs/
+*.ipch
+*.pdb
+*.db
